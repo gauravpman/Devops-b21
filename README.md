@@ -5,3 +5,4 @@ jay
 this changes made after the clone
 hello everyone
 strong
+i love myself
