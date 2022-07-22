@@ -10,3 +10,4 @@ kay sangu rani tu la gav sutna...
 ksa 
 kara
 lol
+nya
